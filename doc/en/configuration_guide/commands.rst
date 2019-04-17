@@ -20,6 +20,8 @@ All the commands can be configured in the menu: **Configuration > Commands**.
 .. image :: /images/user/configuration/04commandlist.png
    :align: center
 
+.. note::
+   By default, locked commands are hidden. Tick the "Display locked" box to list all commands.
 
 **************** 
 Adding a command
@@ -48,7 +50,7 @@ Configuration fields
 * The **Command Type** field allows us to choose the type of command.
 * The **Command Line** field indicates the application or the script use with the command.
 * The **Enable shell** box allows us to enable functions that are specific to a shell such as the pipe, etc.
-* The **Argument Example** and **$HOSTADDRESS$** fields define examples of arguments (each argument starts with a ”!”) and a test IP address respectively. 
+* The **Argument Example** and **$HOSTADDRESS$** fields define examples of arguments (each argument starts with a ”!”) and a test IP address respectively.
   These fields serve to execute the command line defined above via the web interface by clicking on the blue arrow : |bluearrow|.
 * The **Describe arguments** button serves to add  a description to arguments of the “$ARGn$” type. This description will be visible when using the command in a host or service form.
 * The **Clear arguments** button deletes the description of arguments defined
