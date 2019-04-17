@@ -14798,3 +14798,6 @@ msgstr "Filtrer par groupe de services"
 
 msgid "Chart"
 msgstr "Graphiques"
+
+msgid "Display locked"
+msgstr "Afficher vérouillé"
