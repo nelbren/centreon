@@ -55,6 +55,7 @@ Configuration fields
 * The **Describe arguments** button serves to add  a description to arguments of the “$ARGn$” type. This description will be visible when using the command in a host or service form.
 * The **Clear arguments** button deletes the description of arguments defined
 * The **Describe macros** button serves to add  a description to all macros. This description will be visible when using the command in a host or service form.
+
 * The **Connectors** field serves to link a Connector to the command. For more information on Connectors refer to the chapter entitled: `Perl Connector's documentation <http://documentation.centreon.com/docs/centreon-perl-connector/en/latest/>`_ and `SSH Connector's documentation <http://documentation.centreon.com/docs/centreon-ssh-connector/en/latest/>`_.
 * The **Graph template** field serves to link the command to a graphic model.
 * The **Comment** field can be used to make a comment on the command.

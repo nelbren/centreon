@@ -14800,4 +14800,4 @@ msgid "Chart"
 msgstr "Graphiques"
 
 msgid "Display locked"
-msgstr "Afficher vérouillé"
+msgstr "Afficher verrouillé"

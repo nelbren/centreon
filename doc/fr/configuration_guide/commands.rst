@@ -24,7 +24,7 @@ Toutes les commandes peuvent être configurées au sein du menu **Configuration 
    :align: center
 
 .. note::
-   Par défaut, les commandes vérouillées sont masquées. Cocher la case "Afficher vérouillé" pour les afficher toutes.
+   Par défaut, les commandes verrouillées sont masquées. Cocher la case "Afficher verrouillé" pour les afficher toutes.
 
 ********************
 Ajouter une commande
