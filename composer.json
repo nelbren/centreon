@@ -50,7 +50,8 @@
         "symfony/maker-bundle": "^1.11",
         "nelmio/cors-bundle": "^1.5",
         "symfony/validator": "4.2.*",
-        "symfony/expression-language": "4.2.*"
+        "symfony/expression-language": "4.2.*",
+        "symfony/translation": "4.2.*"
     },
     "autoload": {
         "psr-4": {
