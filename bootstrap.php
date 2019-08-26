@@ -62,4 +62,4 @@ function loadDependencyInjector()
 // require composer file
 require __DIR__ . '/vendor/autoload.php';
 
-include_once "container.php";
+include_once __DIR__ . "/container.php";
